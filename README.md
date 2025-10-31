@@ -14,7 +14,7 @@ IDFA to IP Ratio and IDFA to UA Ratio for bot activity detection.
 
 Ensured consistent data types for accurate aggregations.
 
-Appended multiple datasets into a single table named “Invalid 1.”
+Appended multiple datasets into a single table.
 
 🧮 Key DAX Measures:
 
